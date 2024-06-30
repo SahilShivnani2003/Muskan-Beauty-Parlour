@@ -28,3 +28,38 @@ html,body{
     align-items: center;
     justify-content: space-between;
 }
+#course{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 30px;
+}
+#course-1{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 30px 40px;
+}
+#course-1 h3{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 20px 0px;
+}
+#course-1 h4{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 30px;
+}
+#course-2 {
+    width: 70%;
+    border-left: solid 1px #000;
+    padding: 30px 40px ;
+}
+#course-2 h3{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 30px ;
+}
+#course-2 h2{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 20px 0px;
+}
